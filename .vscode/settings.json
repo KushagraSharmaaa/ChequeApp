@@ -1,0 +1,11 @@
+﻿{
+  "files.exclude": {
+    "**/DerivedData": true,
+    "**/.build": true
+  },
+  "editor.formatOnSave": true,
+  "editor.rulers": [100],
+  "files.associations": {
+    "*.swift": "swift"
+  }
+}
